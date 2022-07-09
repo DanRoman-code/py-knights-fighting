@@ -1,6 +1,6 @@
 from app.battle_begin.logic_battle import Logic
 from app.before_battle.basic_stats import New_Knight
-from app.before_battle.extendedstats import ExtendedStats
+from app.before_battle.extended_stats import ExtendedStats
 from app.battle_begin.result import Result
 
 
